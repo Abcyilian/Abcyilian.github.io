@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ueo/web-read-skill.html
+
+Sitemap: https://abcyilian.github.io/sitemap.xml
